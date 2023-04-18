@@ -1,4 +1,6 @@
 PYTHON CODE:
+Install the necessary libraries for this project :  numpy, tensorflow, keras, pillow.
+
 1. Import the libraries and load the dataset
 import keras
 from keras.datasets import mnist
